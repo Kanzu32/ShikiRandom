@@ -1,0 +1,46 @@
+form {
+	padding-top: 40px;
+	text-align: center;
+}
+
+#image {
+	margin: 0 auto;
+	display: block;
+	padding-top: 100px;
+	text-align: center;
+}
+
+#logo {
+	margin: 0 auto;
+	display: block;
+	padding-top: 10px;
+	text-align: center;
+	height: 70px;
+}
+
+a {
+	display: block;
+	text-align: center;
+	font-size: 20px;
+	font-family: Arial;
+	text-decoration: none;
+	color: black;
+}
+
+#anime-name {
+	padding-top: 20px;
+}
+
+#text {
+	font-size: 10px;
+	color: gray;
+	font-family: Arial;
+	text-align: center;
+}
+
+#error {
+	font-size: 16px;
+	color: #ff5151;
+	font-family: Arial;
+	text-align: center;
+}
