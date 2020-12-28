@@ -1,5 +1,5 @@
 # ShikiRandom
-Randomizer anime for site Shikimori.one
+Anime randomizer for Shikimori.one
 
 Used node.js with express, http, body-parser, axios and cherrio
 
