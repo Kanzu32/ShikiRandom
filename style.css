@@ -6,7 +6,6 @@ form {
 #image {
 	margin: 0 auto;
 	display: block;
-	padding-top: 100px;
 	text-align: center;
 }
 
@@ -18,9 +17,17 @@ form {
 	height: 70px;
 }
 
-a {
+#linkZone {
+	margin-top: 100px;
 	display: block;
+}
+
+.linkWrap {
 	text-align: center;
+}
+
+a {
+	display: inline-block;
 	font-size: 20px;
 	font-family: Arial;
 	text-decoration: none;
@@ -43,4 +50,12 @@ a {
 	color: #ff5151;
 	font-family: Arial;
 	text-align: center;
+}
+
+#searchType {
+	display: block;
+	padding-top: 20px;
+	font-family: Arial;
+	color: black;
+	font-size: 14px;
 }
