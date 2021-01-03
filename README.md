@@ -1,5 +1,7 @@
 # ShikiRandom
 
+![](https://github.com/Kanzu32/ShikiRandom/blob/main/logo.png)
+
 ## RU
 
 ### <b>Аниме рандомайзер для сайта Shikimori.one</b>
