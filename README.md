@@ -2,6 +2,7 @@
 
 ![](https://github.com/Kanzu32/ShikiRandom/blob/main/logo.png)
 
+> В связи с изменениями сайта и ужесточения защиты от DDoS атак сайта данный интструмент заархивирован.
 ## RU
 
 ### <b>Аниме рандомайзер для сайта Shikimori.one</b>
